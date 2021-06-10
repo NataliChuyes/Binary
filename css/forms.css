@@ -1,0 +1,16 @@
+input[type=text], input[type=email], input[type=tel], textarea {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+
+.input {
+  border: 1px solid black;
+  height: 50px;
+  border-radius: 0 !important;
+  margin: 0 0 20px 0;
+  padding: 0 20px;
+  display: block;
+  width: 100%;
+  background-color: #f8f8f8;
+}
